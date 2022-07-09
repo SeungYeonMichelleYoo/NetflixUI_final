@@ -15,6 +15,9 @@ Keyboard up and down with Tap Gesture Regonizer & button clicked (텍스트필�
 
 The 4 photos background images are changed when clicking 'Play' button. (재생 버튼 클릭시 배경 랜덤 변경)
 
+Dont't show the password textfield (패스워드창 암호화 적용)
+passwordtxtField.isSecureTextEntry = true
+
 
 
 

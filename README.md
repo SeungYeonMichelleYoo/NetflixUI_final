@@ -30,4 +30,5 @@ passwordtxtField.isSecureTextEntry = true
   
 ![netflix_gif](https://user-images.githubusercontent.com/87454813/215252608-ac56cc2b-8307-4791-a151-25adc56b0b2c.gif)
 
-![Jackflix_3](https://user-images.githubusercontent.com/87454813/178092725-71de1f72-1300-4711-b17c-9f5f2888874e.gif)
+![jackflix](https://user-images.githubusercontent.com/87454813/215252892-dd3afafd-e69b-4f72-9f92-c8b1ccf58cdb.gif)
+

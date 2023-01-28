@@ -1,6 +1,6 @@
 # SeSAC 과제 - NetflixUI_final
 
-## 과제 내용
+## 핵심 화면 및 기능
 ### UI factors UI 요소
 Making photos in circle & border size and color changing (Button에 테두리 및 둥글게 추가)
 
@@ -23,7 +23,7 @@ passwordtxtField.isSecureTextEntry = true
 ## 개발 기간 / 개발 환경  
 2022.07.05
 
-<img width="95" src="https://img.shields.io/badge/Xcode-13-blue"> <img width="77" src="https://img.shields.io/badge/iOS-15.0+-silver">
+<img width="95" src="https://img.shields.io/badge/Xcode-13.4.1-blue"> <img width="77" src="https://img.shields.io/badge/iOS-15.0+-silver">
 
 
 ## 시연 영상  
